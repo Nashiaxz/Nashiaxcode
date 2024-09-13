@@ -26,7 +26,7 @@
 
 🔋3D Skills Section: Display skills using 3D geometries through three.js and React Three Fiber.
 
-🔋Animated Projects and Testimonials: Showcases animated sections using framer-motion to highlight my projects and client feedback.
+🔋Animated Projects: Showcases animated sections using framer-motion to highlight my projects.
 
 🔋Contact Section with 3D Earth Model: Integrates a 3D earth model with email functionality powered by EmailJS.
 
